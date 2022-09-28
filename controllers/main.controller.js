@@ -3,6 +3,7 @@ const { uploadFiles_func, getFiles_func, deleteFiles_func } = require('../utils/
 const uploadFile  = (req, res) => {
 
     try {
+        console.log(req.files);
 
         if (!req.files) throw "Error no file uploaded";
 

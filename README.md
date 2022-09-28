@@ -1,4 +1,4 @@
-# AWS-S3 Uploading Files to S3 bucket
+# AWS-S3 Uploading Get Delete Files from S3 bucket
 
 <p>
     S3, or Simple Storage Service, is a cloud storage service provided by Amazon Web Services (AWS). Using S3, you can host any number of files while paying for only what you use.
