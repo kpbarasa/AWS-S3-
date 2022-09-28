@@ -26,11 +26,9 @@ Features: <br>
 
 # 3 APP COMPONENETS 
 ## 1. Git ignore files 
-+ /assets
-+ /models
 + /package-lock.json
 + /package.json
-+ .env
++ /config/config.env
 
 ## 2. Handlers/
 #### (errorHandlers.js)
