@@ -1,9 +1,7 @@
 # AWS-S3 Uploading Get Delete Files from S3 bucket
 
 <p>
-    S3, or Simple Storage Service, is a cloud storage service provided by Amazon Web Services (AWS). Using S3, you can host any number of files while paying for only what you use.
-
-    S3 also provides multi-regional hosting to customers by their region and thus are able to really quickly serve the requested files with minimum delay.
+Simple NODE, EXPRESS, application that allows the Upload, udating and storage/Retrival of data (image/video/document files) from an Amazon S3 bucket
 </p>
 Data: images, documents, videos <br>
 Features: <br>
